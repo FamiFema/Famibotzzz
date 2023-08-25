@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/c8307b624a194c2a056b8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">AKAZA_MD_V2</h1>
+<h1 align="center">🤖FamiBotzzz🤖</h1>
 <p align="center">
   <a href="https://github.com/Aal-oss"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=AKAZA+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+AKAZA;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
